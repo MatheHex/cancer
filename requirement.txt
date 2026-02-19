@@ -1,0 +1,7 @@
+numpy
+matplotlib
+tifffile
+imagecodecs
+pillow
+imageio
+ipykernel

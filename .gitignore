@@ -1,0 +1,5 @@
+﻿.venv/
+Fiji/
+.ipynb_checkpoints/
+scripts/run_pic/run_pic/*.csv
+scripts/run_pic/run_pic/*.png
