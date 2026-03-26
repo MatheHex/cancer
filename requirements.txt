@@ -5,3 +5,6 @@ imagecodecs
 pillow
 imageio
 ipykernel
+scipy 
+scikit-image 
+ipython
